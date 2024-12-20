@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca67ef22.css",
+    "main.js": "/static/js/main.af3cb5d9.js",
+    "static/js/488.ea8a9d69.chunk.js": "/static/js/488.ea8a9d69.chunk.js",
+    "static/media/Intersect.png": "/static/media/Intersect.71cdcfef8a7457ef973c.png",
+    "static/media/Egg salad.png": "/static/media/Egg salad.756142757c2ba39eac2d.png",
+    "static/media/Fattoush salad.png": "/static/media/Fattoush salad.b66067b216f79552d970.png",
+    "static/media/Vegetable salad.png": "/static/media/Vegetable salad.103894d0c5c7238c5ab5.png",
+    "static/media/pngwing 4.png": "/static/media/pngwing 4.1080ad813739651c9555.png",
+    "static/media/pngwing 6.png": "/static/media/pngwing 6.cf4767d8d53765719850.png",
+    "static/media/pngwing 3.png": "/static/media/pngwing 3.082bab7e09f8811996bf.png",
+    "index.html": "/index.html",
+    "main.ca67ef22.css.map": "/static/css/main.ca67ef22.css.map",
+    "main.af3cb5d9.js.map": "/static/js/main.af3cb5d9.js.map",
+    "488.ea8a9d69.chunk.js.map": "/static/js/488.ea8a9d69.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca67ef22.css",
+    "static/js/main.af3cb5d9.js"
+  ]
+}
